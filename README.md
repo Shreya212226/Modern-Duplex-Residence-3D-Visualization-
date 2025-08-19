@@ -15,8 +15,7 @@ A highly detailed 3D model of a **Modern Duplex Residence**, created using **Aut
 
 ## Files Included
 - `.rvt` – Revit project file (full BIM model)  
-- `.fbx` / `.obj` – (Optional) for rendering or importing into visualization tools  
-- `.mp4` – (Optional) walkthrough/animation video  
+- `.fbx` / `.obj` – for rendering or importing into visualization tools  
 
 ## Learning Outcomes
 **This project is ideal for:**  
