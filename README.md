@@ -26,7 +26,8 @@ A highly detailed 3D model of a **Modern Duplex Residence**, created using **Aut
 - Real estate presentations and concept design developments  
 
 ## Preview
-![image](https://github.com/user-attachments/assets/sample-modern-duplex-residence-preview.png)  
+<img width="972" height="703" alt="image" src="https://github.com/user-attachments/assets/5c432a6a-f5bf-4a96-bb62-11f5ad0ba764" />
+
 
 ## License
 This project is shared for **educational and non-commercial** use.  
