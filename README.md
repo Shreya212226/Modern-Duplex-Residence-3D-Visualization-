@@ -1,19 +1,38 @@
-# Modern-Duplex-Residence-3D-Visualization-
-Project Description: 
-Modern Duplex Residence (3D Visualization) This project features a highly detailed 3D model of a modern two-story residential building, designed and developed using Autodesk Revit—a leading Building Information Modeling (BIM) software.
-Architectural Features: 
-Façade Design: 
-The structure showcases a minimalist modern façade with clean lines, sharp angles, and a harmonious blend of solid and void elements. The exterior employs a sophisticated gray and black palette, reinforcing its contemporary appeal.  
-Terraces and Balconies: 
-Multiple outdoor spaces are integrated, including spacious balconies on the first floor and a large rooftop terrace with protective metal railings—perfect for leisure and gatherings.
-Large Windows: 
-Expansive, floor-to-ceiling windows ensure plenty of natural light and enhance interior openness, contributing to both aesthetics and energy efficiency.  
-Front Entrance and Gate: 
-The secure modern gate, featuring horizontal bars, is paired with a low boundary wall, creating a balance of privacy and open approachability.  Roof Detailing: A flat roof, complemented by robust parapet walls and metal safety railings, not only defines the visual character but also offers additional functional space. 
-Materiality and Texture: 
-The model employs realistic materials within Revit, including concrete for major elements and glass for fenestration, with detailed metal railings.
-Functional Layout (Implied):
-The ground floor is likely arranged for public spaces such as the living room, kitchen, and entry, while the upper level provides private quarters with direct access to balconies and terraces.  The multiple outdoor areas promote privacy, ventilation, and indoor-outdoor connectivity. 
-Design Purpose: Visualization and Presentation: Designed for architectural visualization and client presentations, this model demonstrates both spatial planning and external detailing.  Adaptable Template: Provides a versatile base for real estate projects or further architectural development. 
-Technical Aspects: 
-Modeled in Autodesk Revit for precise scale, accuracy, and full BIM integration.  Detailed elements include railings, windows, gates, parapet walls, and shading devices.  Compatible with 3D rendering, walkthroughs, and architectural documentation workflows.
+# Modern Duplex Residence – 3D Visualization using Revit
+
+A highly detailed 3D model of a **Modern Duplex Residence**, created using **Autodesk Revit**, showcasing contemporary residential architecture with precision, realism, and functional design. This digital visualization highlights clean aesthetics, structural accuracy, and the effective use of BIM for presentation and planning.  
+
+## Project Highlights
+- **Software Used:** Autodesk Revit 2025 (BIM & 3D Visualization)
+- **Architectural Features Modeled:**
+  - **Façade Design:** Minimalist modern façade with sharp lines, solid-void balance, and a sleek gray–black palette.  
+  - **Terraces & Balconies:** Multiple outdoor spaces including wide balconies and a rooftop terrace with metal railings.  
+  - **Large Windows:** Expansive, floor-to-ceiling glazing for natural lighting, openness, and energy efficiency.  
+  - **Front Entrance & Gate:** Modern horizontal-bar gate with a low boundary wall for privacy and approachability.  
+  - **Roof Detailing:** Flat roof with parapet walls and protective railings, adding functional utility.  
+  - **Materiality & Texture:** Realistic use of concrete, glass, and metal with fine detailing for visualization accuracy.  
+- **Focus:** Realistic architectural visualization, spatial planning, and design adaptability.  
+
+## Files Included
+- `.rvt` – Revit project file (full BIM model)  
+- `.fbx` / `.obj` – (Optional) for rendering or importing into visualization tools  
+- `.mp4` – (Optional) walkthrough/animation video  
+
+## Learning Outcomes
+**This project is ideal for:**  
+- Architecture and design students exploring BIM workflows  
+- Professionals preparing architectural visualizations for clients  
+- Learners practicing Revit for detailed residential modeling  
+- Real estate presentations and concept design developments  
+
+## Preview
+![image](https://github.com/user-attachments/assets/sample-modern-duplex-residence-preview.png)  
+
+## License
+This project is shared for **educational and non-commercial** use.  
+The design concept is original and intended for visualization and learning purposes only.  
+
+---
+
+**Feel free to fork, explore, or contribute!**  
+⭐ If you like this project, don’t forget to star the repo!  
