@@ -5,7 +5,7 @@ A highly detailed 3D model of a **Modern Duplex Residence**, created using **Aut
 ## Project Highlights
 - **Software Used:** Autodesk Revit 2025 (BIM & 3D Visualization)
 - **Architectural Features Modeled:**
-  - **Façade Design:** Minimalist modern façade with sharp lines, solid-void balance, and a sleek gray–black palette.  
+  - **Facade Design:** Minimalist modern façade with sharp lines, solid-void balance, and a sleek gray–black palette.  
   - **Terraces & Balconies:** Multiple outdoor spaces including wide balconies and a rooftop terrace with metal railings.  
   - **Large Windows:** Expansive, floor-to-ceiling glazing for natural lighting, openness, and energy efficiency.  
   - **Front Entrance & Gate:** Modern horizontal-bar gate with a low boundary wall for privacy and approachability.  
